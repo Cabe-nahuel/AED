@@ -6,5 +6,5 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hola papu\n";
+    std::cout << "Hola Mundo\n";
 }
